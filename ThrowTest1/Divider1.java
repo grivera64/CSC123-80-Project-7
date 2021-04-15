@@ -1,4 +1,4 @@
-package project7.ThrowTest1;
+//package project7.ThrowTest1;
 
 /*
  * 
